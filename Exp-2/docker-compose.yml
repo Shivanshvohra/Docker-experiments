@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  dockerex2:
+    image: dockerex2
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "8501:8501"  # Maps container port 8501 to host port 8501
