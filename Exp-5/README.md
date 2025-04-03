@@ -15,7 +15,7 @@ This repository contains a **Docker setup** for running a **MySQL container** wi
 
 ### 1️⃣ Clone the Repository & Navigate to the Directory  
 ```sh
-git clone https://github.com/BhavyaDhimxn/container-experiments.git
+git clone https://github.com/Shivanshvohra/Docker-experiments
 cd container-experiments
 ```
 
@@ -61,10 +61,7 @@ Docker_Practices/
 
 ## 📌 Notes  
 - The `database.sql` file will be executed **only on the first run** to initialize the database.  
-- The **root password** is set to `root` (change this in production for security).  
-
-## 🔗 Repository Link  
-🔗 **GitHub:** [BhavyaDhimxn/container-experiments](https://github.com/Shivanshvohra/Docker-experiments)  
+- The **root password** is set to `root` (change this in production for security).   
 
 ---
 
