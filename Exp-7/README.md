@@ -11,7 +11,7 @@ This repository contains a Dockerized Streamlit application for running an ML mo
 └── 📜 app.py       # Main Streamlit application
 🛠️ Setup & Installation
 🔹 Clone the Repository
- git clone https://github.com/BhavyaDhimxn/container-experiments.git
+ git clone https://github.com/Shivanshvohra/Docker-experiments.git
  cd Docker_Practices
 🔹 Build & Run the Docker Container
  docker build -t streamlit-ml-app .
