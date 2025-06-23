@@ -32,3 +32,5 @@ Make sure you have the following installed:
 - 🔹 **EXP-10:** [Docker Bake](https://github.com/Shivanshvohra/Docker-experiments/tree/main/Exp-10)
 
 ---
+
+// auto code
